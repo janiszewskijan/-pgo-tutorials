@@ -1,0 +1,32 @@
+klasy:
+-Person
+-Student
+-Professor
+-Address
+Atrybuty
+-Name :string
+-Surname :string
+-Age :int
+-Street :string
+-City :string 
+-Postal :string
+-Country :string
+-Student Number :string
+-Average Mark :double
+-Salary :double
+
+Metody i typy danych 
+-IntroduceYourself(): string
+name, surname, age
+
+-Is Eligible To Enroll: boolean
+Student Number, Average Mark
+
+-Get Seminars Taken: boolean
+Student Number, Average Mark
+
+-Validate: boolean
+Street, City, Postal, Country
+
+-Output As Label: string
+Street, City, Postal, Country
